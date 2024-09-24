@@ -14,7 +14,6 @@ export async function getProducts(req, res) {
     });
   }
 }
-
 // Obtener un solo producto
 export async function getProduct(req, res) {
   try {
